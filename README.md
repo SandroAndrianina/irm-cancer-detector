@@ -38,7 +38,7 @@ Between containers, always use service names (`db`, `java-service`, `php-app`). 
 - [x] Step 5 — CI4 domain + file access
 - [x] **Step 6 — CI4 → Java (Flow A) + minimal UI page** 🔄
 - [x] Step 7 — Java → CI4 (Flow B, `/api/logs`)
-- [ ] **Step 8 — MRI image upload + mean-intensity heuristic** 🆕
+- [x] **Step 8 — MRI image upload + mean-intensity heuristic** 🆕
 - [ ] Step 9 — Full test from zero
 - [ ] Step 10 — README + tag `v1.0`
 
